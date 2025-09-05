@@ -1,0 +1,34 @@
+name: organoid_pyscenic
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.9
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - scanpy
+  - anndata
+  - h5py
+  - pytables
+  - jupyter
+  - notebook
+  - ipykernel
+  - pip
+  - pip:
+    - pyscenic
+    - arboreto
+    - ctxcore
+    - loompy
+    - dask[complete]
+    - distributed
+    - multiprocessing-logging
+    - psutil
+    - memory_profiler
+    - tqdm
+    - pyyaml
+    - adjustText

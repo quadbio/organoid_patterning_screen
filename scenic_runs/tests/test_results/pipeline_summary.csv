@@ -1,0 +1,5 @@
+,n_cells,n_regulons,n_morphogens,mean_abs_corr,max_corr,min_corr,n_significant,morphogens
+H1,62982,136,7,0.10328731898802018,0.576523150517263,-0.5765231505172629,742,"['FGF8', 'SHH', 'CHIR', 'RA', 'Time_numeric', 'medium_NIM', 'medium_NPM']"
+H9,46511,136,7,0.1112304913898992,0.610411684222129,-0.6104116842221288,746,"['FGF8', 'SHH', 'CHIR', 'RA', 'Time_numeric', 'medium_NIM', 'medium_NPM']"
+WIBJ2,42496,136,7,0.12040296218775022,0.6670125221418316,-0.6670125221418316,738,"['FGF8', 'SHH', 'CHIR', 'RA', 'Time_numeric', 'medium_NIM', 'medium_NPM']"
+WTC,49115,136,7,0.12195103475808396,0.7126836701737689,-0.7126836701737689,736,"['FGF8', 'SHH', 'CHIR', 'RA', 'Time_numeric', 'medium_NIM', 'medium_NPM']"
