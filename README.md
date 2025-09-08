@@ -1,4 +1,4 @@
-Repository conitaning code used for the analysis in the [Sanchís-Calleja, Azbukina et al., 2025].
+Repository conitaning code used for the analysis in the [Sanchís-Calleja, Azbukina et al., 2025][].
 Repo has 3 folders, dedicated to morphogen patterning screen, morphogen reproducibility screen and morphoGRN analysis with SCENIC.
 
 
