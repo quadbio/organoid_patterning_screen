@@ -1,4 +1,5 @@
-# Systematic screening of morphogen patterning in human neural organoids with multiplexed single-cell transcriptomics
+# Systematic neural organoid scSeq screens measure morphogen response
+
 
 
 
