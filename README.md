@@ -1,4 +1,4 @@
-# Systematic neural organoid scSeq screens measure morphogen response
+# Systematic neural organoid scRNA-seq screens measure morphogen response
 
 
 
