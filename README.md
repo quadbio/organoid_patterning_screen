@@ -7,6 +7,8 @@ Repository conitaning code used for the analysis in the [Sanchís-Calleja, Azbuk
 Repo has 4 folders, dedicated to morphogen patterning screen, morphogen reproducibility screen, morphoGRN analysis with SCENIC, and MiSTR.
 
 
+<img src="Graphical_Abstract_4_NA_horizontal.png" alt="Alt text" width="800"/>
+
 
 ```bibtex
 @article{sanchis-calleja2024decoding,
